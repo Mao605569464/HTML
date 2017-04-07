@@ -42,4 +42,9 @@ Web 浏览器的作用是读取 HTML 文档，并以网页的形式显示出它�
 步骤二：用记事本来编辑 HTML  
 在记事本中键入 HTML 代码：  
 ![HTML_01](http://www.w3school.com.cn/i/html_editor_notepad.gif)  
+步骤三：保存 HTML  
+在记事本的文件菜单选择“另存为”。  
+当您保存 HTML 文件时，既可以使用 .htm 也可以使用 .html 扩展名。  
+两者没有区别，完全根据您的喜好。  
 
+在一个容易记忆的文件夹中保存这个文件
