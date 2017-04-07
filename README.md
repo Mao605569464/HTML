@@ -26,7 +26,7 @@ Web 浏览器的作用是读取 HTML 文档，并以网页的形式显示出它�
 </body>
 </html>
 ```
-例子解释  
+**例子解释**  
 &lt;html&gt; 与&lt;/html&gt; 之间的文本描述网页  
 &lt;body&gt; 与 &lt;/body&gt; 之间的文本是可见的页面内容  
 &lt;h1&gt; 与 &lt;/h1&gt;之间的文本被显示为标题  
@@ -41,3 +41,5 @@ Web 浏览器的作用是读取 HTML 文档，并以网页的形式显示出它�
 记事本  
 步骤二：用记事本来编辑 HTML  
 在记事本中键入 HTML 代码：  
+![HTML_01](http://www.w3school.com.cn/i/html_editor_notepad.gif)  
+
