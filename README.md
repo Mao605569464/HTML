@@ -21,18 +21,14 @@ Web 浏览器的作用是读取 HTML 文档，并以网页的形式显示出它�
 ```html
 <html>
 <body>
-
-<h1>My First Heading</h1>
-
-<p>My first paragraph.</p>
-
+<h1>我是一个一号标题</h1>
+<p>我是一个段落.</p>
 </body>
 </html>
 ```
-例子解释
-```html
-<html> 与 </html> 之间的文本描述网页
-<body> 与 </body> 之间的文本是可见的页面内容
-<h1> 与 </h1> 之间的文本被显示为标题
-<p> 与 </p> 之间的文本被显示为段落
-```
+例子解释  
+&lt;html&gt; 与&lt;/html&gt; 之间的文本描述网页
+&lt;body&gt; 与 &lt;/body&gt; 之间的文本是可见的页面内容
+&lt;h1&gt; 与 &lt;/h1&gt;之间的文本被显示为标题
+&lt;p&gt; 与 &lt;/p&gt; 之间的文本被显示为段落
+
