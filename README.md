@@ -16,3 +16,21 @@ HTML 标签通常是成对出现的，比如 &lt;b&gt; 和 &lt;/b&gt;
 - HTML 文档描述网页
 - HTML 文档包含 HTML 标签和纯文本
 - HTML 文档也被称为网页
+Web 浏览器的作用是读取 HTML 文档，并以网页的形式显示出它们。  
+浏览器不会显示 HTML标签，而是使用标签来解释页面的内容  
+```sh
+<html>
+<body>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+</body>
+</html>
+例子解释
+<html> 与 </html> 之间的文本描述网页
+<body> 与 </body> 之间的文本是可见的页面内容
+<h1> 与 </h1> 之间的文本被显示为标题
+<p> 与 </p> 之间的文本被显示为段落
+```
