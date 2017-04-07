@@ -9,8 +9,8 @@ HTML 不是一种编程语言，  而是一种标记语言 (markup language)
 HTML 使用标记标签来描述网页  
 **HTML 标签**  
 HTML 标记标签通常被称为 HTML 标签 (HTML tag)。  
-HTML 标签是由尖括号包围的关键词，比如 &lt;html&rt;
-HTML 标签通常是成对出现的，比如 &lt;b&rt; 和 &lt;/b&rt;  
+HTML 标签是由尖括号包围的关键词，比如 &lt;html&gt;
+HTML 标签通常是成对出现的，比如 &lt;b&gt; 和 &lt;/b&gt;  
 标签对中的第一个标签是开始标签，第二个标签是结束标签开始和结束标签也被称为开放标签和闭合标签  
 **HTML 文档 = 网页**  
 - HTML 文档描述网页
